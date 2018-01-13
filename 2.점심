@@ -1,0 +1,42 @@
+<!doctype html>
+
+<html>
+
+<head>
+<title>Hello-안녕하세요</title>
+<meta chatset="utf-8">
+</head>
+<body>
+<p>
+</p>
+<br>
+<h1><a href="html" title="안녕하세요">#안녕하세요?</a></h1>
+<p style="margin-bottom:45px;">
+</p style="margin-bottom:45px;">
+<ol><div style="color: #0000FF">
+  <li>.<a href="1.아침">아침</a></li>
+  <li>.<a href="2.점심">점심</a></li>
+  <li>.<a href="3.저녁">저녁</a></li>
+</div></ol>
+
+
+<strong>
+
+<p style="margin-top:45px;">
+  2.점심 일과 중 가장 중요한 일이 점심밥을 만드는 것이다. <br>매일 점심에 만든 도시락은 사진을 찍어두었다가 어느 정도 모이면 출력해 앨범에 정리함으로써 엄마 역할의 기록을 남긴다.<p></p><br>
+<img src="lunchbox.jpg" width="80%">
+</p>
+<p>
+<u><h2><a href="http://post.naver.com/viewer/postView.nhn?volumeNo=11079888&memberNo=12124533&mainMenu=CULTURE"
+  target="_blank" title="오전을 잘 활용하면 하루가 순조롭다">
+  하루하루의 리듬 만들기</a></h2></u></p>
+<p>
+
+</strong>
+</body>
+</html>
+<ol>
+<h1><li>headings</li></h1>
+<h2><li>headings</li></h2>
+<h3><li>headings</li></h3>
+</ol>
